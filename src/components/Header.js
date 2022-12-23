@@ -4,8 +4,6 @@ import logo from "../assets/images/logo.png";
 import { AiFillGithub, AiFillLinkedin, AiFillInstagram } from "react-icons/ai";
 import cvsvg from "../assets/icons/cv.svg";
 import contacteme from "../assets/icons/contactme.svg";
-import { BlinkingCursorTextBuilder } from 'react-animated-text-builders'
-
 
 const Header = () => {
 
