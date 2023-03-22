@@ -11,7 +11,7 @@ const Divider = ({ title }) => {
                 paddingTop: "10px",
             }}
         >
-            <div class="divider">
+            <div className="divider">
                 <span></span>
                 <span>{title}</span>
                 <span></span>

@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'antd/dist/antd.min.css';
+import 'react-multi-carousel/lib/styles.css';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

@@ -1,9 +1,6 @@
 import React, { useCallback } from "react";
 import imagem from "../assets/images/about.gif";
 import Divider from "./Divider";
-import logo from "../assets/images/logo.png";
-import Cards from "react-bootstrap/Card";
-import { AiFillGithub, AiFillLinkedin, AiFillInstagram } from "react-icons/ai";
 import { Steps, Timeline, Badge, Card } from "antd";
 const { Step } = Steps;
 
@@ -13,11 +10,6 @@ const About = () => {
       <Divider title="Sobre Mim" />
       <div
         className="about-hero"
-        style={{
-          display: "flex",
-          justifyContent: "center",
-          gap: "2rem",
-        }}
       >
         <div
           className="about-hero-text"

@@ -3,6 +3,7 @@
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
 
+
 /*  EDIÇAO SCROLLBAR */
 
 ::-webkit-scrollbar {
@@ -95,6 +96,17 @@ code {
   gap: 2rem;
   flex-direction: column;
   background-color: black;
+}
+
+.logo_name {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #02fb5a;
+  text-decoration: none;
+  margin-top: 12px;
+  margin-bottom: 12px;
+
 }
 
 .hero__sections {
@@ -251,4 +263,50 @@ code {
   background: transparent;
   color: #02fb5a;
   transform:  scale(1.1);
+}
+
+
+/* FIM HEADER */
+
+.react-multi-carousel-track{
+  padding: 20px !important;
+}
+/* ABOUT */
+
+.about-hero {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+
+.speed-dial {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  z-index: 100;
+}
+
+.speed-dial a {
+  display: block;
+  margin-bottom: 10px;
+  width: 50px;
+  height: 50px;
+  background-color: #25d366; /* cor do whatsapp */
+  border-radius: 50%;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.speed-dial a:last-child {
+  background-color: #0e76a8; /* cor do linkedin */
+}
+
+.speed-dial a:nth-child(2) {
+  background-color: #d44638; /* cor do gmail */
 }

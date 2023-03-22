@@ -8,13 +8,15 @@ import contacteme from "../assets/icons/contactme.svg";
 const Header = () => {
 
 
+  let logoname = "<WARLEY_SERAFIM/>"
+
 
   return (
     <div className="container">
       <div className="hero">
         <div className="hero__sections">
           <div className="hero__sections__image">
-            <img src={logo} alt="avatar"/>
+            <p className="logo_name">{logoname}</p>
    
           <div className="hero__sections__content">
             <div className="hero__sections__content__text">
