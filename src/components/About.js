@@ -31,18 +31,11 @@ const About = () => {
               color: "#fff",
             }}
           >
-            Where can I get some? There are many variations of passages of Lorem
-            Ipsum available, but the majority have suffered alteration in some
-            form, by injected humour, or randomised words which don't look even
-            slightly believable. If you are going to use a passage of Lorem
-            Ipsum, you need to be sure there isn't anything embarrassing hidden
-            in the middle of text. All the Lorem Ipsum generators on the
-            Internet tend to repeat predefined chunks as necessary, making this
-            the first true generator on the Internet. It uses a dictionary of
-            over 200 Latin words, combined with a handful of model sentence
-            structures, to generate Lorem Ipsum which looks reasonable. The
-            generated Lorem Ipsum is therefore always free from repetition,
-            injected humour, or non-characteristic words etc.
+          sou um(a) desenvolvedor(a) Fullstack com expertise em Salesforce. Tenho 3 anos de experiência em desenvolvimento web e mobile, criando soluções tecnológicas personalizadas para empresas em diversos setores.
+
+Como desenvolvedor Fullstack, sou especialista em linguagens de programação como JavaScript, HTML, CSS e Node.js, bem como em frameworks populares como React e Vue. Além disso, tenho experiência em banco de dados, APIs e integração de sistemas.
+
+Sou um profissional comprometido com a excelência e a satisfação do cliente. Meu foco é sempre na qualidade do código, na usabilidade e na escalabilidade da solução que desenvolvo. Trabalho bem em equipe e tenho habilidades interpessoais fortes, o que me permite colaborar com outros desenvolvedores, designers e gerentes de projeto para criar soluções tecnológicas de alta qualidade.
           </p>
         </div>
         <div
